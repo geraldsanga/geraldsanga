@@ -1,4 +1,3 @@
-- 🔭 I’m currently working on [project_cinema](https://github.com/gerry3105/project_cinema_backend)
 - 🌱 I’m always learning Python, Javascript and many more
 - 👯 I’m looking to collaborate on any project with my set of skills
 - 💬 Ask me about anything that concerns Python or Javascript
