@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name Gerald Sanga and I'm a full stack web developer. I'm from Tanzania, living in Dar es Salaam and currently Freelancing.
+My name Gerald Sanga and I'm a full stack developer. I'm from Tanzania, living in Dar es Salaam and currently Freelancing.
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
