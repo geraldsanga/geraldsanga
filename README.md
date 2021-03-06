@@ -15,14 +15,14 @@ My name Gerald Sanga and I'm a full stack developer. I'm from Tanzania, living i
 </a>
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gerry3105&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gerry3105&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gerard's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
+<a href="https://github.com/gerry3105/project_cinema_backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gerry3105&repo=project_cinema_backend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<a href="https://github.com/gerry3105/project_cinema_frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gerry3105&repo=project_cinema_frontend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
