@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/gerry3105/gerry3105/master/header_image.png "Header")
 # Hello, folks! <img src="https://raw.githubusercontent.com/gerry3105/gerry3105/master/wave.gif" width="30px">
-My name is Gerald Sanga and I'm a full stack developer. I'm from Tanzania, living in Dar es Salaam and currently Freelancing.
+My name is Gerald Sanga and I'm a full stack developer. I'm from Tanzania, living in Dar es Salaam and currently Freelancing. Ready to work with anyone with my set of skills
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
