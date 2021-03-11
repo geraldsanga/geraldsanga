@@ -18,6 +18,9 @@ My name is Gerald Sanga and I'm a full stack developer. I'm from Tanzania, livin
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gerry3105&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gerard's GitHub Stats" />
 </a>
 
+
+## &#128293; Hot Repos
+
 <a href="https://github.com/gerry3105/project_cinema_backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gerry3105&repo=project_cinema_backend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
