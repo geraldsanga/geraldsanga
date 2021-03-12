@@ -1,12 +1,16 @@
-![Header](https://raw.githubusercontent.com/gerry3105/gerry3105/master/header_image.png "Header")
+![Header](https://raw.githubusercontent.com/gerry3105/gerry3105/master/header_image1.png "Header")
 # Hello, folks! <img src="https://raw.githubusercontent.com/gerry3105/gerry3105/master/wave.gif" width="30px">
 My name is Gerald Sanga and I'm a full stack developer. I'm from Tanzania, living in Dar es Salaam and currently Freelancing. Ready to work with anyone with my set of skills
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=orange&color=orange)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=blue&color=blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=yellow)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow&color=green)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=green&color=green)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=lightgreen&color=lightgreen)
+![](https://img.shields.io/badge/Tool-Vue-informational?style=flat&logo=vue.js&logoColor=lightgreen&color=darkgreen)
+![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=blue&color=blue)
+![](https://img.shields.io/badge/Tool-git-informational?style=flat&logo=git&logoColor=orange&color=orange)
 
 ## &#x1f4c8; GitHub Stats
 
