@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/gerry3105/gerry3105/master/header_image.png "Header")
+![Header](https://raw.githubusercontent.com/gerry3105/gerry3105/master/header_image1.png "Header")
 # Hello, folks! <img src="https://raw.githubusercontent.com/gerry3105/gerry3105/master/wave.gif" width="30px">
 My name is Gerald Sanga and I'm a full stack developer. I'm from Tanzania, living in Dar es Salaam and currently Freelancing. Ready to work with anyone with my set of skills
 ## 🔧 Technologies & Tools
