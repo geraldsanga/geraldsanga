@@ -2,6 +2,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/gerry3105/gerry3105/master/wave.gif" width="30px">
 My name is Gerald Sanga and I'm a full stack developer. I'm from Tanzania, living in Dar es Salaam and currently Freelancing. Ready to work with anyone with my set of skills
 
+![](https://visitor-badge.glitch.me/badge?page_id=gerry3105.gerry3105)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=orange&color=orange)
