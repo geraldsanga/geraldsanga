@@ -1,5 +1,5 @@
-![Header](https://raw.githubusercontent.com/geraldsanga/geraldsanga/master/header_image4.png "Header")
-# Hello, folks! <img src="https://raw.githubusercontent.com/geraldsanga/geraldsanga/master/wave.gif" width="30px">
+![Header](https://raw.githubusercontent.com/geraldsanga/geraldsanga/master/profile-assets/header_image.png "Header")
+# Hello, folks! <img src="https://raw.githubusercontent.com/geraldsanga/geraldsanga/master/profile-assets/wave.gif" width="30px">
 My name is Gerald Sanga and I'm a full stack developer. I'm from Tanzania, living in Dar es Salaam and currently Freelancing. Ready to work with anyone with my set of skills
 
 ![](https://visitor-badge.glitch.me/badge?page_id=geraldsanga.geraldsanga)
