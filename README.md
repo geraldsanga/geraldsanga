@@ -17,6 +17,7 @@ My name is Gerald Sanga and I'm a full stack developer. I love building cool stu
 ![](https://img.shields.io/badge/Tool-git-informational?style=flat&logo=git&logoColor=orange&color=orange)
 ![](https://img.shields.io/badge/Os-Linux-informational?style=flat&logo=linux&logoColor=black&color=yellow)
 ![](https://img.shields.io/badge/Os-Windows-informational?style=flat&logo=windows&logoColor=blue&color=blue)
+![](https://img.shields.io/badge/Hosting-Heroku-informational?style=flat&logo=heroku&logoColor=purple&color=purple)
 
 ## &#x1f4c8; GitHub Stats
 
